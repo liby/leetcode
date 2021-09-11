@@ -5,3 +5,6 @@
 9. [Palindrome Number](https://github.com/liby/leetcode/blob/main/solutions/9.palindrome-number.rs)
 13. [Roman to Integer](https://github.com/liby/leetcode/blob/main/solutions/13.roman-to-integer.rs)
 14. [Longest Common Prefix](https://github.com/liby/leetcode/blob/main/solutions/14.longest-common-prefix.rs)
+20. [Valid Parentheses](https://github.com/liby/leetcode/blob/main/solutions/20.valid-parentheses.rs)
+21. [Merge Two Sorted Lists](https://github.com/liby/leetcode/blob/main/solutions/21.merge-two-sorted-lists.rs)
+26. [Remove Duplicates from Sorted Array](https://github.com/liby/leetcode/blob/main/solutions/26.remove-duplicates-from-sorted-array.rs)
