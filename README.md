@@ -8,3 +8,5 @@
 20. [Valid Parentheses](https://github.com/liby/leetcode/blob/main/solutions/20.valid-parentheses.rs)
 21. [Merge Two Sorted Lists](https://github.com/liby/leetcode/blob/main/solutions/21.merge-two-sorted-lists.rs)
 26. [Remove Duplicates from Sorted Array](https://github.com/liby/leetcode/blob/main/solutions/26.remove-duplicates-from-sorted-array.rs)
+27. [Remove Element](https://github.com/liby/leetcode/blob/main/solutions/27.remove-element.rs)
+28. [Implement strStr()](https://github.com/liby/leetcode/blob/main/solutions/28.implement-str-str.rs)
