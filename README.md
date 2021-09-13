@@ -11,3 +11,4 @@
 27. [Remove Element](https://github.com/liby/leetcode/blob/main/solutions/27.remove-element.rs)
 28. [Implement strStr()](https://github.com/liby/leetcode/blob/main/solutions/28.implement-str-str.rs)
 35. [Search Insert Position](https://github.com/liby/leetcode/blob/main/solutions/35.search-insert-position.rs)
+53. [Maximum Subarray](https://github.com/liby/leetcode/blob/main/solutions/53.maximum-subarray.rs)
