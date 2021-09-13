@@ -12,3 +12,4 @@
 28. [Implement strStr()](https://github.com/liby/leetcode/blob/main/solutions/28.implement-str-str.rs)
 35. [Search Insert Position](https://github.com/liby/leetcode/blob/main/solutions/35.search-insert-position.rs)
 53. [Maximum Subarray](https://github.com/liby/leetcode/blob/main/solutions/53.maximum-subarray.rs)
+53. [Length of Last Word](https://github.com/liby/leetcode/blob/main/solutions/58.length-of-last-word.rs)
