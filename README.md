@@ -14,3 +14,4 @@
 53. [Maximum Subarray](https://github.com/liby/leetcode/blob/main/solutions/53.maximum-subarray.rs)
 58. [Length of Last Word](https://github.com/liby/leetcode/blob/main/solutions/58.length-of-last-word.rs)
 66. [Plus One](https://github.com/liby/leetcode/blob/main/solutions/66.plus-one.rs)
+67. [Add Binary](https://github.com/liby/leetcode/blob/main/solutions/67.add-binary.rs)
