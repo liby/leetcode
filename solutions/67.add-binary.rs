@@ -18,7 +18,7 @@ impl Solution {
         let mut result = String::with_capacity(i + 1);
         let mut carry = false;
 
-        loop {
+        while i > 0 {
             let a_bin = a.pop().unwrap_or('0');
             let b_bin = b.pop().unwrap_or('0');
 
@@ -50,10 +50,6 @@ impl Solution {
                     result.insert(0, '0');
                     carry = true;
                 }
-            }
-
-            if i <= 1 {
-                break;
             }
 
             i -= 1;
