@@ -16,3 +16,4 @@
 66. [Plus One](https://github.com/liby/leetcode/blob/main/solutions/66.plus-one.rs)
 67. [Add Binary](https://github.com/liby/leetcode/blob/main/solutions/67.add-binary.rs)
 69. [Sqrt(x)](https://github.com/liby/leetcode/blob/main/solutions/69.sqrt-x.rs)
+70. [Climbing Stairs](https://github.com/liby/leetcode/blob/main/solutions/70.climbing-stairs.rs)
