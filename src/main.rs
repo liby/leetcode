@@ -7,25 +7,26 @@ use std::{
 fn conversion_title_vec(lines_iter: &str) -> Vec<&str> {
     lines_iter.split_ascii_whitespace().collect::<Vec<&str>>()
 }
+
+fn conversion_filename_vec(filename: &OsString) -> Vec<&str> {
+    filename.to_str().unwrap().split('.').collect()
+}
+
 fn main() -> Result<(), Error> {
     println!("Rust Solution!");
 
-    let mut v: Vec<OsString> = Vec::new();
+    let mut filename_vec: Vec<OsString> = Vec::new();
     match fs::read_dir("solutions") {
         Err(why) => println!("! {:?}", why.kind()),
         Ok(paths) => {
             for path in paths {
-                v.push(path.unwrap().file_name());
+                filename_vec.push(path.unwrap().file_name());
             }
-            v.sort_by(|a, b| {
-                a.to_str().unwrap().split('.').collect::<Vec<&str>>()[0]
+            filename_vec.sort_by(|a, b| {
+                conversion_filename_vec(a)[0]
                     .parse::<i32>()
                     .unwrap()
-                    .cmp(
-                        &b.to_str().unwrap().split('.').collect::<Vec<&str>>()[0]
-                            .parse::<i32>()
-                            .unwrap(),
-                    )
+                    .cmp(&conversion_filename_vec(b)[0].parse::<i32>().unwrap())
             });
         }
     };
@@ -34,9 +35,8 @@ fn main() -> Result<(), Error> {
     let mut output = File::create(path)?;
     write!(output, "# Rust Solution\n\n")?;
 
-    for i in 0..v.len() {
-        let split_filename = v[i].to_str().unwrap().split('.').collect::<Vec<&str>>();
-        let format_path = format!("solutions/{}", v[i].to_str().unwrap());
+    for i in 0..filename_vec.len() {
+        let format_path = format!("solutions/{}", filename_vec[i].to_str().unwrap());
         let file = BufReader::new(File::open(format_path)?);
         let title_line = file
             .lines()
@@ -47,9 +47,9 @@ fn main() -> Result<(), Error> {
 
         let format_filename = format!(
             "{}. [{}](https://github.com/liby/leetcode/blob/main/solutions/{})",
-            split_filename[0],
+            conversion_filename_vec(&filename_vec[i])[0],
             conversion_title_vec(&title_line)[2..].join(" "),
-            v[i].to_str().unwrap(),
+            filename_vec[i].to_str().unwrap(),
         );
         write!(output, "{}\n", format_filename)?;
     }
