@@ -18,3 +18,4 @@
 69. [Sqrt(x)](https://github.com/liby/leetcode/blob/main/solutions/69.sqrt-x.rs)
 70. [Climbing Stairs](https://github.com/liby/leetcode/blob/main/solutions/70.climbing-stairs.rs)
 83. [Remove Duplicates from Sorted List](https://github.com/liby/leetcode/blob/main/solutions/83.remove-duplicates-from-sorted-list.rs)
+88. [Merge Sorted Array](https://github.com/liby/leetcode/blob/main/solutions/88.merge-sorted-array.rs)
