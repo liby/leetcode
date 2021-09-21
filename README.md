@@ -20,3 +20,4 @@
 83. [Remove Duplicates from Sorted List](https://github.com/liby/leetcode/blob/main/solutions/83.remove-duplicates-from-sorted-list.rs)
 88. [Merge Sorted Array](https://github.com/liby/leetcode/blob/main/solutions/88.merge-sorted-array.rs)
 94. [Binary Tree Inorder Traversal](https://github.com/liby/leetcode/blob/main/solutions/94.binary-tree-inorder-traversal.rs)
+100. [Same Tree](https://github.com/liby/leetcode/blob/main/solutions/100.same-tree.rs)
