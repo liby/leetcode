@@ -22,3 +22,4 @@
 94. [Binary Tree Inorder Traversal](https://github.com/liby/leetcode/blob/main/solutions/94.binary-tree-inorder-traversal.rs)
 100. [Same Tree](https://github.com/liby/leetcode/blob/main/solutions/100.same-tree.rs)
 101. [Symmetric Tree](https://github.com/liby/leetcode/blob/main/solutions/101.symmetric-tree.rs)
+104. [Maximum Depth of Binary Tree](https://github.com/liby/leetcode/blob/main/solutions/104.maximum-depth-of-binary-tree.rs)
