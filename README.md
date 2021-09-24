@@ -23,3 +23,4 @@
 100. [Same Tree](https://github.com/liby/leetcode/blob/main/solutions/100.same-tree.rs)
 101. [Symmetric Tree](https://github.com/liby/leetcode/blob/main/solutions/101.symmetric-tree.rs)
 104. [Maximum Depth of Binary Tree](https://github.com/liby/leetcode/blob/main/solutions/104.maximum-depth-of-binary-tree.rs)
+121. [Best Time to Buy and Sell Stock](https://github.com/liby/leetcode/blob/main/solutions/121.best-time-to-buy-and-sell-stock.rs)
