@@ -26,3 +26,4 @@
 121. [Best Time to Buy and Sell Stock](https://github.com/liby/leetcode/blob/main/solutions/121.best-time-to-buy-and-sell-stock.rs)
 125. [Valid Palindrome](https://github.com/liby/leetcode/blob/main/solutions/125.valid-palindrome.rs)
 167. [Two Sum II - Input array is sorted](https://github.com/liby/leetcode/blob/main/solutions/167.two-sum-ii-input-array-is-sorted.rs)
+168. [Excel Sheet Column Title](https://github.com/liby/leetcode/blob/main/solutions/168.excel-sheet-column-title.rs)
