@@ -27,3 +27,4 @@
 125. [Valid Palindrome](https://github.com/liby/leetcode/blob/main/solutions/125.valid-palindrome.rs)
 167. [Two Sum II - Input array is sorted](https://github.com/liby/leetcode/blob/main/solutions/167.two-sum-ii-input-array-is-sorted.rs)
 168. [Excel Sheet Column Title](https://github.com/liby/leetcode/blob/main/solutions/168.excel-sheet-column-title.rs)
+169. [Majority Element](https://github.com/liby/leetcode/blob/main/solutions/169.majority-element.rs)
