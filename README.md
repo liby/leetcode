@@ -29,3 +29,4 @@
 168. [Excel Sheet Column Title](https://github.com/liby/leetcode/blob/main/solutions/168.excel-sheet-column-title.rs)
 169. [Majority Element](https://github.com/liby/leetcode/blob/main/solutions/169.majority-element.rs)
 171. [Excel Sheet Column Number](https://github.com/liby/leetcode/blob/main/solutions/171.excel-sheet-column-number.rs)
+172. [Factorial Trailing Zeroes](https://github.com/liby/leetcode/blob/main/solutions/172.factorial-trailing-zeroes.rs)
