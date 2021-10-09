@@ -32,3 +32,4 @@
 172. [Factorial Trailing Zeroes](https://github.com/liby/leetcode/blob/main/solutions/172.factorial-trailing-zeroes.rs)
 190. [Reverse Bits](https://github.com/liby/leetcode/blob/main/solutions/190.reverse-bits.rs)
 191. [Number of 1 Bits](https://github.com/liby/leetcode/blob/main/solutions/191.number-of-1-bits.rs)
+202. [Happy Number](https://github.com/liby/leetcode/blob/main/solutions/202.happy-number.rs)
