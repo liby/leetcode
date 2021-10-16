@@ -35,3 +35,6 @@
 202. [Happy Number](https://github.com/liby/leetcode/blob/main/solutions/202.happy-number.rs)
 204. [Count Primes](https://github.com/liby/leetcode/blob/main/solutions/204.count-primes.rs)
 217. [Contains Duplicate](https://github.com/liby/leetcode/blob/main/solutions/217.contains-duplicate.rs)
+219. [Contains Duplicate II](https://github.com/liby/leetcode/blob/main/solutions/219.contains-duplicate-ii.rs)
+228. [Summary Ranges](https://github.com/liby/leetcode/blob/main/solutions/228.summary-ranges.rs)
+231. [Power of Two](https://github.com/liby/leetcode/blob/main/solutions/231.power-of-two.rs)
