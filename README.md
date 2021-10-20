@@ -38,3 +38,5 @@
 219. [Contains Duplicate II](https://github.com/liby/leetcode/blob/main/solutions/219.contains-duplicate-ii.rs)
 228. [Summary Ranges](https://github.com/liby/leetcode/blob/main/solutions/228.summary-ranges.rs)
 231. [Power of Two](https://github.com/liby/leetcode/blob/main/solutions/231.power-of-two.rs)
+242. [Valid Anagram](https://github.com/liby/leetcode/blob/main/solutions/242.valid-anagram.rs)
+258. [Add Digits](https://github.com/liby/leetcode/blob/main/solutions/258.add-digits.rs)
