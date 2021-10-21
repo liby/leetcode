@@ -40,3 +40,4 @@
 231. [Power of Two](https://github.com/liby/leetcode/blob/main/solutions/231.power-of-two.rs)
 242. [Valid Anagram](https://github.com/liby/leetcode/blob/main/solutions/242.valid-anagram.rs)
 258. [Add Digits](https://github.com/liby/leetcode/blob/main/solutions/258.add-digits.rs)
+263. [Ugly Number](https://github.com/liby/leetcode/blob/main/solutions/263.ugly-number.rs)
