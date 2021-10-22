@@ -41,3 +41,4 @@
 242. [Valid Anagram](https://github.com/liby/leetcode/blob/main/solutions/242.valid-anagram.rs)
 258. [Add Digits](https://github.com/liby/leetcode/blob/main/solutions/258.add-digits.rs)
 263. [Ugly Number](https://github.com/liby/leetcode/blob/main/solutions/263.ugly-number.rs)
+268. [Missing Number](https://github.com/liby/leetcode/blob/main/solutions/268.missing-number.rs)
