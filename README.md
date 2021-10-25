@@ -44,3 +44,4 @@
 268. [Missing Number](https://github.com/liby/leetcode/blob/main/solutions/268.missing-number.rs)
 278. [First Bad Version](https://github.com/liby/leetcode/blob/main/solutions/278.first-bad-version.rs)
 283. [Move Zeroes](https://github.com/liby/leetcode/blob/main/solutions/283.move-zeroes.rs)
+292. [Nim Game](https://github.com/liby/leetcode/blob/main/solutions/292.nim-game.rs)
