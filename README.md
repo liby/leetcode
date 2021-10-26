@@ -45,3 +45,4 @@
 278. [First Bad Version](https://github.com/liby/leetcode/blob/main/solutions/278.first-bad-version.rs)
 283. [Move Zeroes](https://github.com/liby/leetcode/blob/main/solutions/283.move-zeroes.rs)
 292. [Nim Game](https://github.com/liby/leetcode/blob/main/solutions/292.nim-game.rs)
+303. [Range Sum Query - Immutable](https://github.com/liby/leetcode/blob/main/solutions/303.range-sum-query-immutable.rs)
