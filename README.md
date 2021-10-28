@@ -47,3 +47,4 @@
 292. [Nim Game](https://github.com/liby/leetcode/blob/main/solutions/292.nim-game.rs)
 303. [Range Sum Query - Immutable](https://github.com/liby/leetcode/blob/main/solutions/303.range-sum-query-immutable.rs)
 326. [Power of Three](https://github.com/liby/leetcode/blob/main/solutions/326.power-of-three.rs)
+338. [Counting Bits](https://github.com/liby/leetcode/blob/main/solutions/338.counting-bits.rs)
