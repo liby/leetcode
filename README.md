@@ -51,3 +51,4 @@
 342. [Power of Four](https://github.com/liby/leetcode/blob/main/solutions/342.power-of-four.rs)
 344. [Reverse String](https://github.com/liby/leetcode/blob/main/solutions/344.reverse-string.rs)
 345. [Reverse Vowels of a String](https://github.com/liby/leetcode/blob/main/solutions/345.reverse-vowels-of-a-string.rs)
+349. [Intersection of Two Arrays](https://github.com/liby/leetcode/blob/main/solutions/349.intersection-of-two-arrays.rs)
