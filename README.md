@@ -54,3 +54,4 @@
 349. [Intersection of Two Arrays](https://github.com/liby/leetcode/blob/main/solutions/349.intersection-of-two-arrays.rs)
 367. [Valid Perfect Square](https://github.com/liby/leetcode/blob/main/solutions/367.valid-perfect-square.rs)
 374. [Guess Number Higher or Lower](https://github.com/liby/leetcode/blob/main/solutions/374.guess-number-higher-or-lower.rs)
+383. [Ransom Note](https://github.com/liby/leetcode/blob/main/solutions/383.ransom-note.rs)
