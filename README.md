@@ -55,3 +55,5 @@
 367. [Valid Perfect Square](https://github.com/liby/leetcode/blob/main/solutions/367.valid-perfect-square.rs)
 374. [Guess Number Higher or Lower](https://github.com/liby/leetcode/blob/main/solutions/374.guess-number-higher-or-lower.rs)
 383. [Ransom Note](https://github.com/liby/leetcode/blob/main/solutions/383.ransom-note.rs)
+387. [First Unique Character in a String](https://github.com/liby/leetcode/blob/main/solutions/387.first-unique-character-in-a-string.rs)
+389. [Find the Difference](https://github.com/liby/leetcode/blob/main/solutions/389.find-the-difference.rs)
