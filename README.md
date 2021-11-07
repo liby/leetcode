@@ -57,3 +57,4 @@
 383. [Ransom Note](https://github.com/liby/leetcode/blob/main/solutions/383.ransom-note.rs)
 387. [First Unique Character in a String](https://github.com/liby/leetcode/blob/main/solutions/387.first-unique-character-in-a-string.rs)
 389. [Find the Difference](https://github.com/liby/leetcode/blob/main/solutions/389.find-the-difference.rs)
+392. [Is Subsequence](https://github.com/liby/leetcode/blob/main/solutions/392.is-subsequence.rs)
