@@ -63,3 +63,4 @@
 405. [Convert a Number to Hexadecimal](https://github.com/liby/leetcode/blob/main/solutions/405.convert-a-number-to-hexadecimal.rs)
 409. [Longest Palindrome](https://github.com/liby/leetcode/blob/main/solutions/409.longest-palindrome.rs)
 412. [Fizz Buzz](https://github.com/liby/leetcode/blob/main/solutions/412.fizz-buzz.rs)
+414. [Third Maximum Number](https://github.com/liby/leetcode/blob/main/solutions/414.third-maximum-number.rs)
