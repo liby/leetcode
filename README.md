@@ -65,3 +65,4 @@
 412. [Fizz Buzz](https://github.com/liby/leetcode/blob/main/solutions/412.fizz-buzz.rs)
 414. [Third Maximum Number](https://github.com/liby/leetcode/blob/main/solutions/414.third-maximum-number.rs)
 415. [Add Strings](https://github.com/liby/leetcode/blob/main/solutions/415.add-strings.rs)
+434. [Number of Segments in a String](https://github.com/liby/leetcode/blob/main/solutions/434.number-of-segments-in-a-string.rs)
