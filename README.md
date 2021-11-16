@@ -66,3 +66,4 @@
 414. [Third Maximum Number](https://github.com/liby/leetcode/blob/main/solutions/414.third-maximum-number.rs)
 415. [Add Strings](https://github.com/liby/leetcode/blob/main/solutions/415.add-strings.rs)
 434. [Number of Segments in a String](https://github.com/liby/leetcode/blob/main/solutions/434.number-of-segments-in-a-string.rs)
+441. [Arranging Coins](https://github.com/liby/leetcode/blob/main/solutions/441.arranging-coins.rs)
