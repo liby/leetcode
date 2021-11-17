@@ -35,7 +35,8 @@ fn main() -> Result<(), Error> {
     let mut output = File::create(path)?;
     write!(output, "# Rust Solution\n\n")?;
 
-    for i in 0..filename_vec.len() {
+    let files_len = filename_vec.len();
+    for i in 0..files_len {
         let format_path = format!("solutions/{}", filename_vec[i].to_str().unwrap());
         let file = BufReader::new(File::open(format_path)?);
         let title_line = file
@@ -53,6 +54,11 @@ fn main() -> Result<(), Error> {
         );
         write!(output, "{}\n", format_filename)?;
     }
+
+    println!(
+        "feat: ✨ add new solution of {}",
+        conversion_filename_vec(&filename_vec[files_len - 1])[1]
+    );
 
     Ok(())
 }
