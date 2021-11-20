@@ -70,3 +70,4 @@
 448. [Find All Numbers Disappeared in an Array](https://github.com/liby/leetcode/blob/main/solutions/448.find-all-numbers-disappeared-in-an-array.rs)
 455. [Assign Cookies](https://github.com/liby/leetcode/blob/main/solutions/455.assign-cookies.rs)
 461. [Hamming Distance](https://github.com/liby/leetcode/blob/main/solutions/461.hamming-distance.rs)
+463. [Island Perimeter](https://github.com/liby/leetcode/blob/main/solutions/463.island-perimeter.rs)
