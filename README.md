@@ -72,3 +72,4 @@
 461. [Hamming Distance](https://github.com/liby/leetcode/blob/main/solutions/461.hamming-distance.rs)
 463. [Island Perimeter](https://github.com/liby/leetcode/blob/main/solutions/463.island-perimeter.rs)
 476. [Number Complement](https://github.com/liby/leetcode/blob/main/solutions/476.number-complement.rs)
+482. [License Key Formatting](https://github.com/liby/leetcode/blob/main/solutions/482.license-key-formatting.rs)
