@@ -74,3 +74,4 @@
 476. [Number Complement](https://github.com/liby/leetcode/blob/main/solutions/476.number-complement.rs)
 482. [License Key Formatting](https://github.com/liby/leetcode/blob/main/solutions/482.license-key-formatting.rs)
 485. [Max Consecutive Ones](https://github.com/liby/leetcode/blob/main/solutions/485.max-consecutive-ones.rs)
+492. [Construct the Rectangle](https://github.com/liby/leetcode/blob/main/solutions/492.construct-the-rectangle.rs)
