@@ -76,3 +76,4 @@
 485. [Max Consecutive Ones](https://github.com/liby/leetcode/blob/main/solutions/485.max-consecutive-ones.rs)
 492. [Construct the Rectangle](https://github.com/liby/leetcode/blob/main/solutions/492.construct-the-rectangle.rs)
 495. [Teemo Attacking](https://github.com/liby/leetcode/blob/main/solutions/495.teemo-attacking.rs)
+496. [Next Greater Element I](https://github.com/liby/leetcode/blob/main/solutions/496.next-greater-element-i.rs)
