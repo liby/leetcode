@@ -78,3 +78,4 @@
 495. [Teemo Attacking](https://github.com/liby/leetcode/blob/main/solutions/495.teemo-attacking.rs)
 496. [Next Greater Element I](https://github.com/liby/leetcode/blob/main/solutions/496.next-greater-element-i.rs)
 500. [Keyboard Row](https://github.com/liby/leetcode/blob/main/solutions/500.keyboard-row.rs)
+504. [Base 7](https://github.com/liby/leetcode/blob/main/solutions/504.base-7.rs)
