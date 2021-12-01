@@ -80,3 +80,4 @@
 500. [Keyboard Row](https://github.com/liby/leetcode/blob/main/solutions/500.keyboard-row.rs)
 501. [Find Mode in Binary Search Tree](https://github.com/liby/leetcode/blob/main/solutions/501.find-mode-in-binary-search-tree.rs)
 504. [Base 7](https://github.com/liby/leetcode/blob/main/solutions/504.base-7.rs)
+507. [Perfect Number](https://github.com/liby/leetcode/blob/main/solutions/507.perfect-number.rs)
