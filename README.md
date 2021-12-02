@@ -81,3 +81,4 @@
 501. [Find Mode in Binary Search Tree](https://github.com/liby/leetcode/blob/main/solutions/501.find-mode-in-binary-search-tree.rs)
 504. [Base 7](https://github.com/liby/leetcode/blob/main/solutions/504.base-7.rs)
 507. [Perfect Number](https://github.com/liby/leetcode/blob/main/solutions/507.perfect-number.rs)
+508. [Most Frequent Subtree Sum](https://github.com/liby/leetcode/blob/main/solutions/508.most-frequent-subtree-sum.rs)
