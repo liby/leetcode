@@ -83,3 +83,4 @@
 507. [Perfect Number](https://github.com/liby/leetcode/blob/main/solutions/507.perfect-number.rs)
 508. [Most Frequent Subtree Sum](https://github.com/liby/leetcode/blob/main/solutions/508.most-frequent-subtree-sum.rs)
 509. [Fibonacci Number](https://github.com/liby/leetcode/blob/main/solutions/509.fibonacci-number.rs)
+520. [Detect Capital](https://github.com/liby/leetcode/blob/main/solutions/520.detect-capital.rs)
