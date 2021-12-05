@@ -84,3 +84,4 @@
 508. [Most Frequent Subtree Sum](https://github.com/liby/leetcode/blob/main/solutions/508.most-frequent-subtree-sum.rs)
 509. [Fibonacci Number](https://github.com/liby/leetcode/blob/main/solutions/509.fibonacci-number.rs)
 520. [Detect Capital](https://github.com/liby/leetcode/blob/main/solutions/520.detect-capital.rs)
+521. [Longest Uncommon Subsequence I](https://github.com/liby/leetcode/blob/main/solutions/521.longest-uncommon-subsequence-i.rs)
