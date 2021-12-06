@@ -85,3 +85,4 @@
 509. [Fibonacci Number](https://github.com/liby/leetcode/blob/main/solutions/509.fibonacci-number.rs)
 520. [Detect Capital](https://github.com/liby/leetcode/blob/main/solutions/520.detect-capital.rs)
 521. [Longest Uncommon Subsequence I](https://github.com/liby/leetcode/blob/main/solutions/521.longest-uncommon-subsequence-i.rs)
+551. [Student Attendance Record I](https://github.com/liby/leetcode/blob/main/solutions/551.student-attendance-record-i.rs)
