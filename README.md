@@ -85,4 +85,6 @@
 509. [Fibonacci Number](https://github.com/liby/leetcode/blob/main/solutions/509.fibonacci-number.rs)
 520. [Detect Capital](https://github.com/liby/leetcode/blob/main/solutions/520.detect-capital.rs)
 521. [Longest Uncommon Subsequence I](https://github.com/liby/leetcode/blob/main/solutions/521.longest-uncommon-subsequence-i.rs)
+541. [Reverse String II](https://github.com/liby/leetcode/blob/main/solutions/541.reverse-string-ii.rs)
 551. [Student Attendance Record I](https://github.com/liby/leetcode/blob/main/solutions/551.student-attendance-record-i.rs)
+557. [Reverse Words in a String III](https://github.com/liby/leetcode/blob/main/solutions/557.reverse-words-in-a-string-iii.rs)
