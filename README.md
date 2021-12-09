@@ -88,3 +88,4 @@
 541. [Reverse String II](https://github.com/liby/leetcode/blob/main/solutions/541.reverse-string-ii.rs)
 551. [Student Attendance Record I](https://github.com/liby/leetcode/blob/main/solutions/551.student-attendance-record-i.rs)
 557. [Reverse Words in a String III](https://github.com/liby/leetcode/blob/main/solutions/557.reverse-words-in-a-string-iii.rs)
+561. [Array Partition I](https://github.com/liby/leetcode/blob/main/solutions/561.array-partition-i.rs)
