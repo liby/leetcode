@@ -90,3 +90,4 @@
 557. [Reverse Words in a String III](https://github.com/liby/leetcode/blob/main/solutions/557.reverse-words-in-a-string-iii.rs)
 561. [Array Partition I](https://github.com/liby/leetcode/blob/main/solutions/561.array-partition-i.rs)
 563. [Binary Tree Tilt](https://github.com/liby/leetcode/blob/main/solutions/563.binary-tree-tilt.rs)
+566. [Reshape the Matrix](https://github.com/liby/leetcode/blob/main/solutions/566.reshape-the-matrix.rs)
