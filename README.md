@@ -91,3 +91,4 @@
 561. [Array Partition I](https://github.com/liby/leetcode/blob/main/solutions/561.array-partition-i.rs)
 563. [Binary Tree Tilt](https://github.com/liby/leetcode/blob/main/solutions/563.binary-tree-tilt.rs)
 566. [Reshape the Matrix](https://github.com/liby/leetcode/blob/main/solutions/566.reshape-the-matrix.rs)
+575. [Distribute Candies](https://github.com/liby/leetcode/blob/main/solutions/575.distribute-candies.rs)
