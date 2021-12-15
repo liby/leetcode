@@ -93,3 +93,4 @@
 566. [Reshape the Matrix](https://github.com/liby/leetcode/blob/main/solutions/566.reshape-the-matrix.rs)
 575. [Distribute Candies](https://github.com/liby/leetcode/blob/main/solutions/575.distribute-candies.rs)
 594. [Longest Harmonious Subsequence](https://github.com/liby/leetcode/blob/main/solutions/594.longest-harmonious-subsequence.rs)
+598. [Range Addition II](https://github.com/liby/leetcode/blob/main/solutions/598.range-addition-ii.rs)
