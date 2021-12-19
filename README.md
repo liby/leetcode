@@ -95,3 +95,4 @@
 594. [Longest Harmonious Subsequence](https://github.com/liby/leetcode/blob/main/solutions/594.longest-harmonious-subsequence.rs)
 598. [Range Addition II](https://github.com/liby/leetcode/blob/main/solutions/598.range-addition-ii.rs)
 605. [Can Place Flowers](https://github.com/liby/leetcode/blob/main/solutions/605.can-place-flowers.rs)
+617. [Merge Two Binary Trees](https://github.com/liby/leetcode/blob/main/solutions/617.merge-two-binary-trees.rs)
