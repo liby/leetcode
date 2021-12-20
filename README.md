@@ -96,3 +96,4 @@
 598. [Range Addition II](https://github.com/liby/leetcode/blob/main/solutions/598.range-addition-ii.rs)
 605. [Can Place Flowers](https://github.com/liby/leetcode/blob/main/solutions/605.can-place-flowers.rs)
 617. [Merge Two Binary Trees](https://github.com/liby/leetcode/blob/main/solutions/617.merge-two-binary-trees.rs)
+628. [Maximum Product of Three Numbers](https://github.com/liby/leetcode/blob/main/solutions/628.maximum-product-of-three-numbers.rs)
