@@ -101,3 +101,4 @@
 653. [Two Sum IV - Input is a BST](https://github.com/liby/leetcode/blob/main/solutions/653.two-sum-iv-input-is-a-bst.rs)
 674. [Longest Continuous Increasing Subsequence](https://github.com/liby/leetcode/blob/main/solutions/674.longest-continuous-increasing-subsequence.rs)
 680. [Valid Palindrome II](https://github.com/liby/leetcode/blob/main/solutions/680.valid-palindrome-ii.rs)
+682. [Baseball Game](https://github.com/liby/leetcode/blob/main/solutions/682.baseball-game.rs)
