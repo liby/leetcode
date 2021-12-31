@@ -105,3 +105,4 @@
 693. [Binary Number with Alternating Bits](https://github.com/liby/leetcode/blob/main/solutions/693.binary-number-with-alternating-bits.rs)
 696. [Count Binary Substrings](https://github.com/liby/leetcode/blob/main/solutions/696.count-binary-substrings.rs)
 697. [Degree of an Array](https://github.com/liby/leetcode/blob/main/solutions/697.degree-of-an-array.rs)
+700. [Search in a Binary Search Tree](https://github.com/liby/leetcode/blob/main/solutions/700.search-in-a-binary-search-tree.rs)
