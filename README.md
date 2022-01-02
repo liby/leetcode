@@ -107,3 +107,4 @@
 697. [Degree of an Array](https://github.com/liby/leetcode/blob/main/solutions/697.degree-of-an-array.rs)
 700. [Search in a Binary Search Tree](https://github.com/liby/leetcode/blob/main/solutions/700.search-in-a-binary-search-tree.rs)
 704. [Binary Search](https://github.com/liby/leetcode/blob/main/solutions/704.binary-search.rs)
+705. [Design HashSet](https://github.com/liby/leetcode/blob/main/solutions/705.design-hash-set.rs)
