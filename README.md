@@ -109,3 +109,4 @@
 704. [Binary Search](https://github.com/liby/leetcode/blob/main/solutions/704.binary-search.rs)
 705. [Design HashSet](https://github.com/liby/leetcode/blob/main/solutions/705.design-hash-set.rs)
 706. [Design HashMap](https://github.com/liby/leetcode/blob/main/solutions/706.design-hash-map.rs)
+709. [To Lower Case](https://github.com/liby/leetcode/blob/main/solutions/709.to-lower-case.rs)
