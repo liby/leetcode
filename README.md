@@ -111,3 +111,4 @@
 706. [Design HashMap](https://github.com/liby/leetcode/blob/main/solutions/706.design-hash-map.rs)
 709. [To Lower Case](https://github.com/liby/leetcode/blob/main/solutions/709.to-lower-case.rs)
 717. [1-bit and 2-bit Characters](https://github.com/liby/leetcode/blob/main/solutions/717.1-bit-and-2-bit-characters.rs)
+724. [Find Pivot Index](https://github.com/liby/leetcode/blob/main/solutions/724.find-pivot-index.rs)
