@@ -114,3 +114,4 @@
 724. [Find Pivot Index](https://github.com/liby/leetcode/blob/main/solutions/724.find-pivot-index.rs)
 733. [Flood Fill](https://github.com/liby/leetcode/blob/main/solutions/733.flood-fill.rs)
 744. [Find Smallest Letter Greater Than Target](https://github.com/liby/leetcode/blob/main/solutions/744.find-smallest-letter-greater-than-target.rs)
+746. [Min Cost Climbing Stairs](https://github.com/liby/leetcode/blob/main/solutions/746.min-cost-climbing-stairs.rs)
