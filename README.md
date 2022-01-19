@@ -116,3 +116,4 @@
 744. [Find Smallest Letter Greater Than Target](https://github.com/liby/leetcode/blob/main/solutions/744.find-smallest-letter-greater-than-target.rs)
 746. [Min Cost Climbing Stairs](https://github.com/liby/leetcode/blob/main/solutions/746.min-cost-climbing-stairs.rs)
 747. [Largest Number At Least Twice of Others](https://github.com/liby/leetcode/blob/main/solutions/747.largest-number-at-least-twice-of-others.rs)
+748. [Shortest Completing Word](https://github.com/liby/leetcode/blob/main/solutions/748.shortest-completing-word.rs)
