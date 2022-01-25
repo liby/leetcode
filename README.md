@@ -118,3 +118,4 @@
 747. [Largest Number At Least Twice of Others](https://github.com/liby/leetcode/blob/main/solutions/747.largest-number-at-least-twice-of-others.rs)
 748. [Shortest Completing Word](https://github.com/liby/leetcode/blob/main/solutions/748.shortest-completing-word.rs)
 762. [Prime Number of Set Bits in Binary Representation](https://github.com/liby/leetcode/blob/main/solutions/762.prime-number-of-set-bits-in-binary-representation.rs)
+766. [Toeplitz Matrix](https://github.com/liby/leetcode/blob/main/solutions/766.toeplitz-matrix.rs)
