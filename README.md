@@ -122,3 +122,4 @@
 771. [Jewels and Stones](https://github.com/liby/leetcode/blob/main/solutions/771.jewels-and-stones.rs)
 796. [Rotate String](https://github.com/liby/leetcode/blob/main/solutions/796.rotate-string.rs)
 804. [Unique Morse Code Words](https://github.com/liby/leetcode/blob/main/solutions/804.unique-morse-code-words.rs)
+806. [Number of Lines To Write String](https://github.com/liby/leetcode/blob/main/solutions/806.number-of-lines-to-write-string.rs)
