@@ -55,10 +55,13 @@ fn main() -> Result<(), Error> {
         write!(output, "{}\n", format_filename)?;
     }
 
-    println!(
+    let commit_message = format!(
         "feat: ✨ add new solution of {}",
         conversion_filename_vec(&filename_vec[files_len - 1])[1]
     );
+
+    Command::new("git").arg("add").arg('.').output().expect("shell exec error!");
+    Command::new("git").arg("commit").arg('-m').arg(&commit_message).output().expect("shell exec error!");
 
     Ok(())
 }
