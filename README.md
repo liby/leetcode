@@ -124,3 +124,4 @@
 804. [Unique Morse Code Words](https://github.com/liby/leetcode/blob/main/solutions/804.unique-morse-code-words.rs)
 806. [Number of Lines To Write String](https://github.com/liby/leetcode/blob/main/solutions/806.number-of-lines-to-write-string.rs)
 819. [Most Common Word](https://github.com/liby/leetcode/blob/main/solutions/819.most-common-word.rs)
+821. [Shortest Distance to a Character](https://github.com/liby/leetcode/blob/main/solutions/821.shortest-distance-to-a-character.rs)

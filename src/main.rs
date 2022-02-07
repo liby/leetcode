@@ -2,6 +2,7 @@ use std::{
     ffi::OsString,
     fs::{self, File},
     io::{BufRead, BufReader, Error, Write},
+    process::Command,
 };
 
 fn conversion_title_vec(lines_iter: &str) -> Vec<&str> {
@@ -60,8 +61,8 @@ fn main() -> Result<(), Error> {
         conversion_filename_vec(&filename_vec[files_len - 1])[1]
     );
 
-    Command::new("git").arg("add").arg('.').output().expect("shell exec error!");
-    Command::new("git").arg("commit").arg('-m').arg(&commit_message).output().expect("shell exec error!");
+    Command::new("git").arg("add").arg(".").output().expect("shell exec error!");
+    Command::new("git").arg("commit").arg("-m").arg(&commit_message).output().expect("shell exec error!");
 
     Ok(())
 }
