@@ -125,3 +125,4 @@
 806. [Number of Lines To Write String](https://github.com/liby/leetcode/blob/main/solutions/806.number-of-lines-to-write-string.rs)
 819. [Most Common Word](https://github.com/liby/leetcode/blob/main/solutions/819.most-common-word.rs)
 821. [Shortest Distance to a Character](https://github.com/liby/leetcode/blob/main/solutions/821.shortest-distance-to-a-character.rs)
+824. [Goat Latin](https://github.com/liby/leetcode/blob/main/solutions/824.goat-latin.rs)
