@@ -130,3 +130,4 @@
 832. [Flipping an Image](https://github.com/liby/leetcode/blob/main/solutions/832.flipping-an-image.rs)
 836. [Rectangle Overlap](https://github.com/liby/leetcode/blob/main/solutions/836.rectangle-overlap.rs)
 852. [Peak Index in a Mountain Array](https://github.com/liby/leetcode/blob/main/solutions/852.peak-index-in-a-mountain-array.rs)
+859. [Buddy Strings](https://github.com/liby/leetcode/blob/main/solutions/859.buddy-strings.rs)
