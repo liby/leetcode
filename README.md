@@ -132,3 +132,4 @@
 852. [Peak Index in a Mountain Array](https://github.com/liby/leetcode/blob/main/solutions/852.peak-index-in-a-mountain-array.rs)
 859. [Buddy Strings](https://github.com/liby/leetcode/blob/main/solutions/859.buddy-strings.rs)
 860. [Lemonade Change](https://github.com/liby/leetcode/blob/main/solutions/860.lemonade-change.rs)
+868. [Binary Gap](https://github.com/liby/leetcode/blob/main/solutions/868.binary-gap.rs)
