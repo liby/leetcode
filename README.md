@@ -134,3 +134,4 @@
 860. [Lemonade Change](https://github.com/liby/leetcode/blob/main/solutions/860.lemonade-change.rs)
 868. [Binary Gap](https://github.com/liby/leetcode/blob/main/solutions/868.binary-gap.rs)
 872. [Leaf-Similar Trees](https://github.com/liby/leetcode/blob/main/solutions/872.leaf-similar-trees.rs)
+876. [Middle of the Linked List](https://github.com/liby/leetcode/blob/main/solutions/876.middle-of-the-linked-list.rs)
