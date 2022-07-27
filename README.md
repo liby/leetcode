@@ -139,3 +139,4 @@
 884. [Uncommon Words from Two Sentences](https://github.com/liby/leetcode/blob/main/solutions/884.uncommon-words-from-two-sentences.rs)
 888. [Fair Candy Swap](https://github.com/liby/leetcode/blob/main/solutions/888.fair-candy-swap.rs)
 892. [Surface Area of 3D Shapes](https://github.com/liby/leetcode/blob/main/solutions/892.surface-area-of-3-d-shapes.rs)
+896. [Monotonic Array](https://github.com/liby/leetcode/blob/main/solutions/896.monotonic-array.rs)
